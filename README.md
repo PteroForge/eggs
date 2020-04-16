@@ -10,7 +10,7 @@ If you are submitting PR's try and keep names and titles the same.
 
 If you are reading this it looks like you are looking to add an egg to your server.
 
-1. Download any of the json files located in the folders below. 
+1. Download any of the json files located in the folders below.
    1. It's easiest to right click the `raw` button and save as.
 2. In your panel go to the `Nests` section in the admin part of the panel
 3. Click the green `Import Egg` button
@@ -26,7 +26,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 ## Bot Eggs
 
-[Discord](/bots/discord/) 
+[Discord](/bots/discord/)
 * [ATL Bot](/bots/discord/atlbot/) Node JS
 * [Bastion](/bots/discord/bastion/)
 * [discord.js](bots/discord/discord.js/) Node JS generic
@@ -36,14 +36,20 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [pixel-bot](/bots/discord/pixelbot/) Python
 * [Sinusbot](/bots/discord/sinusbot/)
 
+[Twitch](/bots/twitch)
+* [PhantomBot](/bots/twitch/phantombot/)
+
 [TeamSpeak3](bots/teamspeak3)
 * [JTS3ServerMod](/bots/teamspeak3/jts3servermod/)
 
 ## Database Eggs
+### SQL Databases
 [MariaDB](/database/mariadb/)
 
-## Game Eggs
+### In-Memory Databases
+[Redis](/database/redis/)
 
+## Game Eggs
 [ET Legacy](/enemy_territory/etlegacy/)
 
 [Factorio](/factorio/factorio/)
@@ -57,29 +63,33 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [Multi Theft Auto](/gta/mtasa/)
   * [SA-MP](/gta/samp/)
 
-[Minecraft Bedrock](/minecraft_bedrock/) Servers for Bedrock Minecraft
-* [Bedrock](/minecraft_bedrock/bedrock/)
-* [Nukkit](/minecraft_bedrock/nukkit/)
-* [PocketMine MP](/minecraft_bedrock/pocketmine_mp/)
+[Mindusrty](/mindustry/)
+
+[Minecraft Bedrock](/minecraft_bedrock/)  
+* [Bedrock](/minecraft_bedrock/bedrock/)  
+* [Nukkit](/minecraft_bedrock/nukkit/)  
+* [PocketMine MP](/minecraft_bedrock/pocketmine_mp/)  
 
 [Minecraft Java](/minecraft_java/) Servers for Java Minecraft
 * [Cuberite](/minecraft_java/cuberite/)
 * [Forge](/minecraft_java/forge/)
 * [Feed The Beast](/minecraft_java/ftb/)
+* [Magma](/minecraft/magma/)
 * [Paper](/minecraft_java/paper)
 * [Spigot](/minecraft_java/spigot/)
 * [spongeforge](/minecraft_java/spongeforge/)
 * [SpongeVanilla](/minecraft_java/spongevanilla/)
 * [Technic](/minecraft_java/technic/)
 * [VanillaCord](/minecraft_java/vanillacord/)
+* [Tuinity](/minecraft_java/tuinity/) 
 
 [Minecraft Proxies](/minecraft_proxy/) (these are for the java version of minecraft)
 * [Waterfall](/minecraft_proxy/waterfall/)
 * [TyphoonLimbo](/minecraft_proxy/typhoonlimbo/)
 * [Velocity](/minecraft_proxy/velocity/)
 
-[Tycoon Games](/tycoon_games/)
-* [OpenTTD](/tycoon_games/openttd/)
+[Red Dead Redemption](/rdr/)
+* [RedM](/rdr/redm/)
 
 [steamcmd servers](/steamcmd_servers/) These eggs use steamcmd to install
 * [7 Days to Die](/steamcmd_servers/7_days_to_die/)
@@ -95,17 +105,25 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Onset](/steamcmd_servers/onset)
 * [PixARK](/steamcmd_servers/pixark/)
 * [Rust Staging Branch](/steamcmd_servers/rust_staging/)
+* [SCP: Secret Laboratory](/steamcmd_servers/scpsl/)
 * [Starbound](/steamcmd_servers/starbound)
 * [Sven Co-op](/steamcmd_servers/svencoop)
 * [Squad](/steamcmd_servers/squad/)
-* [Unturned](/unturned/)
-  * [RocketMod](/unturned/rocketmod/)
-
-[Unreal Engine](/unreal_engine)
-* [Tower Unite](/unreal_engine/tower_unite/)
+* [Unturned](/steamcmd_servers/unturned/)
+  * [RocketMod](/steamcmd_servers/unturned/rocketmod/)
+  * [Unturned](/steamcmd_servers/unturned/unturned/)
 
 [Terraria](/terraria/)
 * [tmodloader](/terraria/tmodloader)
 * [tshock](/terraria/tshock/)
+
+[Tycoon Games](/tycoon_games/)
+* [OpenTTD](/tycoon_games/openttd/)
+
+[Unreal Engine](/unreal_engine)
+* [Tower Unite](/unreal_engine/tower_unite/)
+* [Tower Unite](/steamcmd_servers/tower_unite/)
+
+[Vintage Story](/vintage_story/vintage_story/)
 
 [Xonotic](/xonotic/xonotic/)
